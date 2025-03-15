@@ -26,13 +26,16 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 ### 📊 **Dashboard Principal**  
 Exibe o total de pacientes, dentistas e consultas, além da listagem das consultas cadastradas.  
 ![Dashboard](https://github.com/bia98silva/OdontoCare-mvcweb/blob/main/img/dashboard.PNG)
+http://localhost:8080/dashboard
 
 ### 📅 **Agendamento de Consulta**  
 Permite o agendamento de novas consultas para os pacientes.  
 ![Agendamento](https://github.com/bia98silva/OdontoCare-mvcweb/blob/main/img/consulta.PNG)
+http://localhost:8080/consultasView/nova 
 
 ###  **Update das consultas agendadas**  
 ![update](https://github.com/bia98silva/OdontoCare-mvcweb/blob/main/img/editar.PNG)
+http://localhost:8080/consultasView/editar
 
 
 ###  **Apagar consultas agendadas**
