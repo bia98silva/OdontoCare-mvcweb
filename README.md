@@ -41,7 +41,7 @@ http://localhost:8080/consultasView/editar
 ###  **Apagar consultas agendadas**
 ![delete](https://github.com/bia98silva/OdontoCare-mvcweb/blob/main/img/delete.PNG)
 
-### Link do video: 
+### Link do video: https://youtu.be/JFBnpe3I18c
 
 ### Link do repositorio das sprints anteriores: 
 https://github.com/bia98silva/OdontoCare
